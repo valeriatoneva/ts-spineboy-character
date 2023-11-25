@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es6"],         
+    "outDir": "./dist",            
+    "noImplicitAny": true,           
+    "module": "es2015",          
+    "target": "es6",              
+    "moduleResolution": "node",    
+    "skipLibCheck": true,         
+    "sourceMap": true,           
+    "strict": true,                
+    "resolveJsonModule": true,     
+    "allowSyntheticDefaultImports": true 
+  },
+  "include": [
+    "./scripts/**/*"               
+  ],
+  "exclude": [
+    "node_modules",               
+    "dist"                     
+  ]
+}
