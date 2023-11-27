@@ -1,7 +1,7 @@
 # Spineboy Adventure Game 🎮
 
 ## Overview 🌈
-This project is a 2D side-scrolling platformer featuring "Spineboy," developed using PixiJS and Spine animation. The game showcases smooth animation transitions, responsive keyboard controls, and basic physics for a fun and interactive gaming experience.
+This project is a 2D side-scrolling platformer featuring "Spineboy," developed using PixiJS and Spine animation. The game showcases smooth animation transitions, responsive keyboard controls, and basic physics for a fun and interactive gaming experience. Direct preview of the game can be found here https://codesandbox.io/p/sandbox/spineboy-project-d4vw2f?file=%2F.prettierrc%3A11%2C2. 
 ![Spineboy Gameplay](spineboy-canva.png)
 
 
